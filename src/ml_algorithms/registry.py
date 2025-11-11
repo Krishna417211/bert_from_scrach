@@ -50,4 +50,4 @@ def list_categories():
 def get_algorithms(category):
     return machine_learning_algorithms.get(category, [])
 
-# Revision commit 2025-11-11 #4
+# Revision commit 2025-11-11 #6
