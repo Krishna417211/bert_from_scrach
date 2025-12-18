@@ -48,4 +48,4 @@ class PolynomialRegressionFromScratch:
         X_poly = self._transform(X)
         return self.linear_model.predict(X_poly)
 
-# Revision commit 2025-12-17 #14
+# Revision commit 2025-12-18 #1
