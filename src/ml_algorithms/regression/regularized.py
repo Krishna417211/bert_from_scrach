@@ -80,4 +80,4 @@ class ElasticNetFromScratch:
     def predict(self, X):
         return np.dot(X, self.weights) + self.bias
 
-# Revision commit 2026-01-10 #2
+# Revision commit 2026-01-10 #5
