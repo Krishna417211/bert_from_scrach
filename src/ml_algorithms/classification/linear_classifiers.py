@@ -60,4 +60,4 @@ class LinearSVMFromScratch:
         approx = np.dot(X, self.w) - self.b
         return np.where(np.sign(approx) <= 0, 0, 1)
 
-# Revision commit 2026-01-17 #5
+# Revision commit 2026-01-18 #1
