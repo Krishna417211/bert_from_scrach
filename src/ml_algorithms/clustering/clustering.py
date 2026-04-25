@@ -102,3 +102,5 @@ class GaussianMixtureFromScratch:
                 self.weights[k] = N_k[k] / n_samples
 
         return np.argmax(responsibilities, axis=1)
+
+# Revision commit 2026-04-25 #5
