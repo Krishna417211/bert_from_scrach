@@ -103,4 +103,4 @@ class GaussianMixtureFromScratch:
 
         return np.argmax(responsibilities, axis=1)
 
-# Revision commit 2026-05-07 #8
+# Revision commit 2026-05-10 #6
