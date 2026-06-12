@@ -76,4 +76,4 @@ class SimplifiedTSNEFromScratch:
             Y -= self.lr * dY
         return Y
 
-# Revision commit 2026-06-10 #10
+# Revision commit 2026-06-12 #8
