@@ -46,3 +46,5 @@ class AprioriFromScratch:
                 if len(union) == k:
                     candidates.add(union)
         return candidates
+
+# Revision commit 2026-06-15 #2
