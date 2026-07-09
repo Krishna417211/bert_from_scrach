@@ -47,4 +47,4 @@ class AprioriFromScratch:
                     candidates.add(union)
         return candidates
 
-# Revision commit 2026-07-09 #1
+# Revision commit 2026-07-09 #3
