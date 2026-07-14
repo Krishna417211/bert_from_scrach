@@ -55,4 +55,4 @@ class GaussianNaiveBayesFromScratch:
         denominator = np.sqrt(2 * np.pi * var)
         return numerator / denominator
 
-# Revision commit 2026-07-14 #5
+# Revision commit 2026-07-14 #11
