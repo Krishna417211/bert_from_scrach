@@ -113,4 +113,4 @@ class RandomForestFromScratch:
         tree_preds = np.swapaxes(predictions, 0, 1)
         return np.array([np.bincount(p).argmax() for p in tree_preds])
 
-# Revision commit 2026-07-23 #9
+# Revision commit 2026-07-26 #3
